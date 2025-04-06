@@ -34,8 +34,14 @@
     >*npm install react-router-dom*
 
 * install axios JS - for client side.  
-  in your public/index.html file
+  for javascript and html project: in your public/index.html file
 [<script src=https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js">]
+
+In a react project:
+> npm install axios  
+  and in a js file or ts file:     
+  import axios from 'axios';
+
 
 * install EXPRESS JS - for server side.
 >*npm install express*
