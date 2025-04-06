@@ -43,6 +43,9 @@ In a react project:
   import axios from 'axios';
 
 
+In a clean new backend folder  
+* create an index.js file
+* npm init
 * install EXPRESS JS - for server side.
 >*npm install express*
 
